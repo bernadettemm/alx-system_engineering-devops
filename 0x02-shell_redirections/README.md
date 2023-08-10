@@ -6,6 +6,7 @@ Project done during Full Stack Software Engineering studies with ALX Africa. It 
 - Tested on Ubuntu 20.04 LTS.
 
 ## Files
-0: 0-hello_world : Prints "Hello, World", followed by a new line to the standard output
-1: 1-confused_smiley : Displays a confused smiley "(Ôo)'
+0: 0-hello_world : Prints "Hello, World", followed by a new line to the standard output /n
+1: 1-confused_smiley : Displays a confused smiley "(Ôo)' /n
+
 
