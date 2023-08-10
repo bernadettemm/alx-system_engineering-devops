@@ -1,7 +1,7 @@
-##Shell, I/O Redirections and filters
+# Shell, I/O Redirections and filters
 Project done during Full Stack Software Engineering studies with ALX Africa. It aims to learn about how to handle standard input and output and how tocombine commands and filters with redirections in Shell.
 
-##Technologies
+# Technologies
 - Scripts written in bash 5.2
 - Tested on Ubuntu 20.04 LTS.
 
