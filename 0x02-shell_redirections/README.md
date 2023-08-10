@@ -1,5 +1,5 @@
 # Shell, I/O Redirections and filters
-Project done during Full Stack Software Engineering studies with ALX Africa. It aims to learn about how to handle standard input and output and how tocombine commands and filters with redirections in Shell.
+Project done during Full Stack Software Engineering studies with ALX Africa. Aims at learning how to handle standard input and output and how tocombine commands and filters with redirections in Shell.
 
 # Technologies
 - Scripts written in bash 5.2
